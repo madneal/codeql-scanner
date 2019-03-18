@@ -1,0 +1,8 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.prospectorEnabled": false,
+    "python.linting.enabled": false,
+    "python.linting.pep8Enabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.pythonPath": "/usr/bin/python3"
+}
